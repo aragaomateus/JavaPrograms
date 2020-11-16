@@ -6,7 +6,7 @@ After that order is printed, the program ask if the user wants to add another ta
 After each new table, the program will print a matrix showing tables that are currently occupaied, it will show as '#' for tables that are occupaied. 
 
 #Ideal final product:
-##Menu principal:
+Menu principal:
 1.	-Option for "Manager".
 a.	-"Restaurant Stats"
 i.	-look it up the total sale of at the moment.
