@@ -21,6 +21,5 @@ Menu principal:
 4. Option for "Current Orders": It acess the orders for the tables that have not paid yet. 
    - Add order to the tab. 
    - Remove item to the tab. 
-   - Print a bil for the table. 
+   - Print a bill for the table. 
    - Close order. Enables the table to be used again.
-
