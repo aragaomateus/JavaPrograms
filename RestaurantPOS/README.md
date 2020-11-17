@@ -7,7 +7,7 @@ The User is playing the role of a waiter in a restaurant. The user is able of ch
 ## Ideal final product: 
 
 ### Menu principal:
-#### "Manager": [Has a password and name]
+#### "Manager": {Has a password and name}
     - Modify Menus:*
         - add/remove food
         - add/remove drinks
@@ -30,7 +30,7 @@ The User is playing the role of a waiter in a restaurant. The user is able of ch
     - Add Table:
         - Add new table in the system, and get orders for the guests in the table.
 
-#### "Server": [Has a password and name]
+#### "Server": {Has a password and name}
     - Current Orders:
         - view open orders
         - add/remove items from order
