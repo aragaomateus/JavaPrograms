@@ -8,11 +8,11 @@ The User is playing the role of a waiter in a restaurant. The user is able of ch
 
 ### Menu principal:
 #### "Manager": {Has a password and name}
-    - Modify Menus:*
-        - add/remove food
-        - add/remove drinks
-        - set prices
-        - set the default menu.
+     - Modify Menus:*
+       - add/remove food
+       - add/remove drinks
+       - set prices
+       - set the default menu.
      
     - Restaurant Statistics:*
         - Print total sale
