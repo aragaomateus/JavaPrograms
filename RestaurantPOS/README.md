@@ -14,28 +14,28 @@ The User is playing the role of a waiter in a restaurant. The user is able of ch
        - set prices
        - set the default menu.
      
-    - Restaurant Statistics:*
+   - Restaurant Statistics:*
         - Print total sale
         - print toal of guests
         - most sold items
         - close the cashier
         - average spent by customer
         
-    - Current Orders:
+   - Current Orders:
         - view open orders
         - add/remove items from order
         - void orders*
         - print a table bill
         - process the payment(Closes order and opens for new guests)
-    - Add Table:
+   - Add Table:
         - Add new table in the system, and get orders for the guests in the table.
 
 #### "Server": {Has a password and name}
-    - Current Orders:
+   - Current Orders:
         - view open orders
         - add/remove items from order
         - print a table bill
         - process the payment(Closes order and opens for new guests)
-    - Add Table:
+   - Add Table:
         - Add new table in the system, and get orders for the guests in the table.
 
