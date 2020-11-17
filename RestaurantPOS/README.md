@@ -6,7 +6,7 @@ The User is playing the role of a waiter in a restaurant. The user is able of ch
 
 ## Ideal final product: 
 
-Menu principal:
+###### Menu principal:
 1. Option for "Manager". 
    - "Restaurant Stats"  
    - look it up the total sale of at the moment. 
