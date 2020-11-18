@@ -1,5 +1,12 @@
 # RestaurantPOS is a program that simulates a real POS station in a restaurant. 
 
+## How to Run the Program:
+   - Download the file RestaurantPOS.
+   - Open the file in any Editor for the Java language.
+   - The program only uses the Java standard library. 
+   - Open the Main.java file in the editor and run it. 
+   - The user will interect with the program through the terminal. 
+
 ## Current State: 
 
 The User is playing the role of a waiter in a restaurant. The user is able of choosing the table where the new guest are seated and to set the amount of people in the table. Then program collect the individual orders of each guest seated in that table and print it back. After that order is printed, the program ask if the user wants to add another table and repeat the process of getting the individual orders. After each new table, the program will print a matrix showing the tables that are currently occupaied, it will show as '#'.
